@@ -12,6 +12,6 @@ outputs:
     description: 'The time you were greeted'
 
 runs:
-  using:'node12'
+  using: 'node12'
   main: 'index.js'
   
